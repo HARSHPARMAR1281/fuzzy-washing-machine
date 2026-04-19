@@ -108,11 +108,7 @@ The fuzzy logic system successfully determines washing time by handling uncertai
 
 ---
 
-## 👨‍💻 Author
-**Harsh**  
-Manipal University Jaipur
 
----
 
 ## ⭐ Notes
 - Requires MATLAB Fuzzy Logic Toolbox  
